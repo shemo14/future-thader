@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="86d1f5ec-8e2a-4bb2-9c8f-ab9143603ea2" name="ana-b5er" url="http://159.69.203.18">
+        <fileTransfer host="159.69.203.18" port="22" rootFolder="/var/www/html/old" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a4c27cdb-310e-4ab5-9642-9631d7931d41" name="shams" url="http://shams.arabsdesign.com">
+        <fileTransfer host="shams.arabsdesign.com" port="21" rootFolder="/public_html/eBST-backend">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e09c5efb-a942-4441-9fa0-bd0bbb98dc01" name="haraj" url="http://195.154.146.9">
+        <fileTransfer host="195.154.146.9" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
