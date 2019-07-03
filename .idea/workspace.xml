@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ad200d5-1da8-4f8b-aa26-43ebeab47bca" name="Default Changelist" comment="" />
+    <list default="true" id="1ad200d5-1da8-4f8b-aa26-43ebeab47bca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,20 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="true" current-in-tab="true">
-        <entry file="remoteDeploymentFS://&lt;e09c5efb-a942-4441-9fa0-bd0bbb98dc01&gt;/resources/views/website/banks.blade.php">
+      <file pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;70f2fc75-c3e9-4b8f-898e-79186042921c&gt;/website/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="79" column="30" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
+            <state relative-caret-position="462">
+              <caret line="22" selection-start-line="22" selection-end-line="32" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="true" current-in-tab="false">
-        <entry file="remoteDeploymentFS://&lt;e09c5efb-a942-4441-9fa0-bd0bbb98dc01&gt;/website/css/style.css">
+      <file pinned="true" current-in-tab="true">
+        <entry file="remoteDeploymentFS://&lt;70f2fc75-c3e9-4b8f-898e-79186042921c&gt;/website/css/en.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="2740" column="17" selection-start-line="2740" selection-start-column="17" selection-end-line="2740" selection-end-column="17" />
+            <state relative-caret-position="252">
+              <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -54,7 +57,22 @@
       <find>setEmployees</find>
       <find>787</find>
       <find>767</find>
+      <find>special-blog</find>
+      <find>offer-box</find>
+      <find>.full-box .block</find>
+      <find>checkme</find>
+      <find>.pay-trans .pay-input</find>
+      <find>.pay-trans input.pay-input</find>
+      <find>style</find>
+      <find>sotger</find>
+      <find>fancy</find>
+      <find>linear-gradient(to right, #06c7ff 12%, #05b3e5 100%)</find>
+      <find>05b3e5</find>
     </findStrings>
+    <replaceStrings>
+      <replace>da332e</replace>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,21 +80,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resources/views/dashboard/permissions/create.blade.php" />
-        <option value="$PROJECT_DIR$/app/Helpers/menuAndPermissions.php" />
-        <option value="$PROJECT_DIR$/resources/views/dashboard/permissions/update.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/AuthController.php" />
-        <option value="$PROJECT_DIR$/public/design/admin/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/resources/views/dashboard/dashboard.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/dashboard/settings/index.blade.php" />
-        <option value="$PROJECT_DIR$/routes/api.php" />
         <option value="$PROJECT_DIR$/public/design/admin/assets/js/main.js" />
         <option value="$PROJECT_DIR$/resources/views/dashboard/index.blade.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="&lt;86d1f5ec-8e2a-4bb2-9c8f-ab9143603ea2&gt;/app/Http/Controllers/AlertsController.js" />
         <option value="&lt;a4c27cdb-310e-4ab5-9642-9631d7931d41&gt;/routes/api.php" />
         <option value="&lt;a4c27cdb-310e-4ab5-9642-9631d7931d41&gt;/app/Http/Controllers/Apis/OffersController.php" />
-        <option value="&lt;e09c5efb-a942-4441-9fa0-bd0bbb98dc01&gt;/resources/views/website/subscription/index.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/AdminController.php" />
         <option value="$PROJECT_DIR$/resources/views/dashboard/admins/index.blade.php" />
         <option value="$PROJECT_DIR$/app/User.php" />
@@ -96,8 +105,32 @@
         <option value="$PROJECT_DIR$/app/Models/Orders.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/OrdersController.php" />
+        <option value="&lt;e09c5efb-a942-4441-9fa0-bd0bbb98dc01&gt;/resources/views/website/photos-ads.blade.php" />
+        <option value="&lt;e09c5efb-a942-4441-9fa0-bd0bbb98dc01&gt;/resources/views/website/index.blade.php" />
+        <option value="&lt;e09c5efb-a942-4441-9fa0-bd0bbb98dc01&gt;/resources/views/website/auctions/details.blade.php" />
+        <option value="&lt;e09c5efb-a942-4441-9fa0-bd0bbb98dc01&gt;/resources/views/website/layout/error.blade.php" />
+        <option value="&lt;e09c5efb-a942-4441-9fa0-bd0bbb98dc01&gt;/resources/views/website/layout/master.blade.php" />
+        <option value="&lt;e09c5efb-a942-4441-9fa0-bd0bbb98dc01&gt;/resources/views/website/subscription/index.blade.php" />
         <option value="&lt;e09c5efb-a942-4441-9fa0-bd0bbb98dc01&gt;/resources/views/website/banks.blade.php" />
         <option value="&lt;e09c5efb-a942-4441-9fa0-bd0bbb98dc01&gt;/website/css/style.css" />
+        <option value="&lt;e09c5efb-a942-4441-9fa0-bd0bbb98dc01&gt;/resources/views/website/commission.blade.php" />
+        <option value="&lt;e09c5efb-a942-4441-9fa0-bd0bbb98dc01&gt;/website/css/en.css" />
+        <option value="&lt;e09c5efb-a942-4441-9fa0-bd0bbb98dc01&gt;/resources/views/website/details.blade.php" />
+        <option value="&lt;e09c5efb-a942-4441-9fa0-bd0bbb98dc01&gt;/resources/views/website/edit-free-blog.blade.php" />
+        <option value="&lt;d4ecd121-9875-4a3e-971e-2934ffa2ee27&gt;/resources/views/website/auctions/details.blade.php" />
+        <option value="&lt;d4ecd121-9875-4a3e-971e-2934ffa2ee27&gt;/resources/views/website/layout/error.blade.php" />
+        <option value="&lt;d4ecd121-9875-4a3e-971e-2934ffa2ee27&gt;/resources/views/website/commission.blade.php" />
+        <option value="&lt;d4ecd121-9875-4a3e-971e-2934ffa2ee27&gt;/resources/views/website/details.blade.php" />
+        <option value="&lt;d4ecd121-9875-4a3e-971e-2934ffa2ee27&gt;/resources/views/website/notifications.blade.php" />
+        <option value="&lt;d4ecd121-9875-4a3e-971e-2934ffa2ee27&gt;/resources/views/website/offer-details.blade.php" />
+        <option value="&lt;d4ecd121-9875-4a3e-971e-2934ffa2ee27&gt;/website/css/en.css" />
+        <option value="&lt;d4ecd121-9875-4a3e-971e-2934ffa2ee27&gt;/resources/views/website/requestedAds.blade.php" />
+        <option value="&lt;d4ecd121-9875-4a3e-971e-2934ffa2ee27&gt;/resources/views/website/sign-up.blade.php" />
+        <option value="&lt;d4ecd121-9875-4a3e-971e-2934ffa2ee27&gt;/website/css/style.css" />
+        <option value="&lt;d4ecd121-9875-4a3e-971e-2934ffa2ee27&gt;/resources/views/website/index.blade.php" />
+        <option value="&lt;70f2fc75-c3e9-4b8f-898e-79186042921c&gt;/website/css/en.css" />
+        <option value="&lt;70f2fc75-c3e9-4b8f-898e-79186042921c&gt;/website/css/style.css" />
+        <option value="&lt;70f2fc75-c3e9-4b8f-898e-79186042921c&gt;/resources/views/website/investment.blade.php" />
       </list>
     </option>
   </component>
@@ -267,11 +300,14 @@
       <workItem from="1561121052952" duration="4220000" />
       <workItem from="1561645592584" duration="16607000" />
       <workItem from="1561883791416" duration="1648000" />
+      <workItem from="1561918320168" duration="2665000" />
+      <workItem from="1561970718892" duration="8083000" />
+      <workItem from="1562075932066" duration="2193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32287000" />
+    <option name="totallyTimeSpent" value="45228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -294,6 +330,7 @@
       <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.32960895" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32960895" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32923833" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />

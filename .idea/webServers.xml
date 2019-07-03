@@ -26,6 +26,22 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="d4ecd121-9875-4a3e-971e-2934ffa2ee27" name="montg_haraj" url="http://148.251.232.43">
+        <fileTransfer host="148.251.232.43" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="70f2fc75-c3e9-4b8f-898e-79186042921c" name="haraj_basha" url="http://haragbasha.aait-sa.com">
+        <fileTransfer host="haragbasha.aait-sa.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>
